@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 End-to-end Research Pipeline using OpenAI's GPT-4o
-This script replicates Together.ai's agentic research system but uses OpenAI's APIs for all sub-agent roles,
+This script implements an agentic research system using OpenAI's APIs for all sub-agent roles,
 with real-time web search using Tavily.
 """
 
